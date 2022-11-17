@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Captain America",
+        "CharacterName": "Steve Rogers",
+        "Abilities": "Captain America has agility, strength, speed, endurance, and reaction time superior to any Olympic athlete who ever competed.",
+        "firstAppearance": "Captain America-The first avenger",
+        "WarBuddy": "Bucky Barnes"
+    },
+    {
+        "name": "Iron Man",
+        "CharacterName": "Tony Stark",
+        "Abilities": "Genius level intellect Proficient scientist and engineer Powered armor suit: Superhuman strength, speed, durability, agility, reflexes.",
+        "firstAppearance": "Iron Man",
+        "WarBuddy": "James Rhody Rhodes"
+    },
+    {   
+        "name": "Thor",
+        "CharacterName": "Thor Odinson",
+        "Abilities": "The mighty Thor wields an enchanted Uru hammer, Mjolnir, and is master of thunder and lightning.",
+        "firstAppearance": "Thor",
+        "WarBuddy": "Heimdall"
+    }, 
+    {  "name": "Hawkeye",
+        "CharacterName": "Clint Barton",
+        "Abilities": "Master archer and marksman Expert tactician, acrobat and hand-to-hand combatant Using a variety of trick arrows As Goliath",
+        "firstAppearance": "Thor",
+        "WarBuddy": "Natasha Romanoff"
+    },
+    {  "name": "Ant Man",
+        "CharacterName": "Scott Lang",
+        "Abilities": "Ability to shrink to sub-microscopic size and enter the subatomic universes.",
+        "firstAppearance": "Ant-Man",
+        "WarBuddy": "Captain America"
+    } ,
+    {
+        "name": "Black Widow",
+        "CharacterName": "Natasha Romanoff",
+        "Abilities": "master in the covert arts of espionage, infiltration, and subterfuge",
+        "firstAppearance": "Avengers",
+        "WarBuddy": "Hawkeye"
+    } ,
+    {
+        "name": "Dr. Strange",
+        "CharacterName": "Stephen Strange",
+        "Abilities": "A Master of the Mystic Arts",
+        "firstAppearance": "Dr. Strange",
+        "WarBuddy": "Wong"
+    },
+    {
+        "name": "The Hulk",
+        "CharacterName": "Bruce Banner",
+        "Abilities": "Power of gama radiation and samsh things",
+        "firstAppearance": "The incredible Hulk",
+        "WarBuddy": "Thor"
+    },
+    {
+        "name": "Loki",
+        "CharacterName": "Loki Odison",
+        "Abilities": "Manipulator",
+        "firstAppearance": "Thor",
+        "WarBuddy": "No one"
+    }
+
+    
+]

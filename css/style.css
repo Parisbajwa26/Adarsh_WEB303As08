@@ -1,0 +1,100 @@
+html{
+    background-color: rgb(249, 246, 240);
+    text-align:center;
+ }
+ body{
+     margin: 0;
+     padding: 0;
+     box-sizing: content-box;
+     border: 1px black;
+ }
+ 
+ h1{
+     color: aqua;
+     margin: 5PX;
+     font-size: 50px;
+ 
+ }
+
+.searchMatched{
+    color: White;
+    background-color: rgb(11, 11, 11);
+}
+
+table {
+    font-family: arial, sans-serif;
+    border: #0a0a0a;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+main{
+    width: 1200px;
+    margin: auto;
+}
+
+ .search-area input{
+    padding: 5px 10px;
+    border: 1px solid rgb(11, 11, 11);
+    background-color: rgb(205, 201, 201);
+    margin: 15px;
+}
+ 
+ tr.searchMatched:hover{
+    background-color: rgb(104, 17, 138);
+}
+main table tr:hover{
+    background-color: rgb(9, 9, 9);
+    color: aliceblue;
+}
+
+ tr,th{
+    padding: 10px ;
+    border: 8px solid #040404;
+    text-align: left;
+    color: rgb(240, 235, 235);
+    background-color: rgb(116, 3, 157);
+    width: 700px;
+    height: 45px;
+}
+tr{
+    border: 10px #0a0a0a;
+    color: #0a0a0a;
+}
+
+.btn{
+    font-size: 20px;
+    padding: 5px 15px;
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius: 8px;
+    color: #10a9b7d1;
+    background-color: #101bb7db;
+}
+.btnn{
+    font-size: 20px;
+    padding: 5px 15px;
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius: 8px;
+    color: #060606d1;
+    background-color: #2dd70adb;
+}
+.bttn{
+    font-size: 20px;
+    padding: 5px 15px;
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius: 8px;
+    color: #060606d1;
+    background-color: #ab6c29db;
+    margin: 15px;
+}
+
+
+@media screen and (max-width: 850px){
+    main{
+        width: 700px;
+        height:450;
+    }
+}
