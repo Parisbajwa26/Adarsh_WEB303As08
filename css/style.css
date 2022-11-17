@@ -10,7 +10,7 @@ html{
  }
  
  h1{
-     color: aqua;
+     color: rgb(14, 15, 15);
      margin: 5PX;
      font-size: 50px;
  
@@ -18,7 +18,7 @@ html{
 
 .searchMatched{
     color: White;
-    background-color: rgb(11, 11, 11);
+    background-color: darkgreen;
 }
 
 table {
@@ -41,25 +41,25 @@ main{
 }
  
  tr.searchMatched:hover{
-    background-color: rgb(104, 17, 138);
+    background-color: rgb(32, 117, 6);
 }
 main table tr:hover{
-    background-color: rgb(9, 9, 9);
+    background-color: rgb(39, 150, 8);
     color: aliceblue;
 }
 
- tr,th{
+ main table tr,th{
     padding: 10px ;
-    border: 8px solid #040404;
+    border: 2px solid #040404;
     text-align: left;
-    color: rgb(240, 235, 235);
-    background-color: rgb(116, 3, 157);
+    color: rgb(7, 7, 7);
+    background-color: rgb(254, 251, 255);
     width: 700px;
-    height: 45px;
+    height: 18px;
 }
 tr{
     border: 10px #0a0a0a;
-    color: #0a0a0a;
+    color: #050505;
 }
 
 .btn{
