@@ -49,6 +49,8 @@ function addDataToTableBody(data){
                     <td>${value.Abilities}</td>                
                     <td>${value.firstAppearance}</td>  
                     <td>${value.WarBuddy}</td> 
+                    <td>${value.ReleasedDate}</td> 
+
                 </tr>`;
      });
  
